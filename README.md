@@ -32,7 +32,6 @@ In our "Introduction to Machine Learning" assignment, we have undertaken a compr
 **Description:** 
 - For our analysis, we employed the Rule of Total Probability to deduce the fraction of truthful clickers responding "yes" in a website survey scenario (Part A). Subsequently, we harnessed Bayes' Theorem to assess the likelihood of a disease presence given a positive test result, considering both the test's sensitivity and the disease's prevalence (Part B).
 
-
 **Conclusions/Results:**
 * The fraction of people who are truthful clickers answered yes is 71.43%
 * The probability of someone having disease given that they tested positive is 19.89%
@@ -41,7 +40,6 @@ In our "Introduction to Machine Learning" assignment, we have undertaken a compr
 ​
 **Description:**
 ​
-
 **Conclusions/Results:**
 ​
 ### [Visual story telling part 1: green buildings](https://github.com/kkarthick12/STA380-Part-II/blob/main/Q3-Visual-Story-Telling-Green-Buildings.md)
@@ -55,21 +53,18 @@ In our "Introduction to Machine Learning" assignment, we have undertaken a compr
 ​
 **Description:**
 ​
-
 **Conclusions/Results:**
 ​
 ### [Clustering and dimensionality reduction](https://github.com/kkarthick12/STA380-Part-II/blob/main/Q5-Clustering-and-dimensionality-reduction.md)
 ​
 **Description:**
 ​
-
 **Conclusions/Results:**
 ​
 ### [Market segmentation](https://github.com/kkarthick12/STA380-Part-II/blob/main/Q6-Market-Segmentation.md)
 ​
 **Description:**
 ​
-
 **Conclusions/Results:**
 ​
 ### [The Reuters Corpus](https://github.com/kkarthick12/STA380-Part-II/blob/main/Q7-The%20Reuters%20Corpus.ipynb)
@@ -84,14 +79,12 @@ In our "Introduction to Machine Learning" assignment, we have undertaken a compr
 ​
 **Description:**
 ​
-
 **Conclusions/Results:**
 ​
 ### [Image classification with neural networks](https://github.com/kkarthick12/STA380-Part-II/blob/main/Q9%20-%20Image%20classification%20with%20neural%20networks.ipynb)
 ​
 **Description:**
 ​
-
 **Conclusions/Results:**
 ​
 ## 4. Data
