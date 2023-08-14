@@ -77,7 +77,6 @@ In our "Introduction to Machine Learning" assignment, we have undertaken a compr
 **Description:**
 - For the Reuters C50 text corpus, we employed the LDA (Latent Dirichlet Allocation) model to perform topic modeling, identifying key themes across the corpus. Leveraging these discerned topics, we also designed a mini search engine that suggests authors based on user-input topics, enabling a targeted exploration of the dataset's content.
 
-
 **Conclusions/Results:**
 - Through LDA topic modeling, we discerned predominant themes in the Reuters C50 corpus, spanning U.S. business legalities, global financial trends, and geopolitical nuances, especially concerning China. This analysis paved the way for a tailored search system to connect users with authors specializing in their chosen topics.
 ​
