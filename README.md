@@ -41,37 +41,43 @@ In our "Introduction to Machine Learning" assignment, we have undertaken a compr
 ​
 **Description:**
 ​
+
 **Conclusions/Results:**
 ​
 ### [Visual story telling part 1: green buildings](https://github.com/kkarthick12/STA380-Part-II/blob/main/Q3-Visual-Story-Telling-Green-Buildings.md)
 ​
 **Description:**
 ​
+
 **Conclusions/Results:**
 ​
 ### [Visual story telling part 2: Capital Metro data](https://github.com/kkarthick12/STA380-Part-II/blob/main/Q4-Visual-Story-Telling-Part-II-Capital-Metro-Data.md)
 ​
 **Description:**
 ​
+
 **Conclusions/Results:**
 ​
 ### [Clustering and dimensionality reduction](https://github.com/kkarthick12/STA380-Part-II/blob/main/Q5-Clustering-and-dimensionality-reduction.md)
 ​
 **Description:**
 ​
+
 **Conclusions/Results:**
 ​
 ### [Market segmentation](https://github.com/kkarthick12/STA380-Part-II/blob/main/Q6-Market-Segmentation.md)
 ​
 **Description:**
 ​
+
 **Conclusions/Results:**
 ​
 ### [The Reuters Corpus](https://github.com/kkarthick12/STA380-Part-II/blob/main/Q7-The%20Reuters%20Corpus.ipynb)
 ​
 **Description:**
 - For the Reuters C50 text corpus, we employed the LDA (Latent Dirichlet Allocation) model to perform topic modeling, identifying key themes across the corpus. Leveraging these discerned topics, we also designed a mini search engine that suggests authors based on user-input topics, enabling a targeted exploration of the dataset's content.
-​
+
+
 **Conclusions/Results:**
 - Through LDA topic modeling, we discerned predominant themes in the Reuters C50 corpus, spanning U.S. business legalities, global financial trends, and geopolitical nuances, especially concerning China. This analysis paved the way for a tailored search system to connect users with authors specializing in their chosen topics.
 ​
@@ -79,12 +85,14 @@ In our "Introduction to Machine Learning" assignment, we have undertaken a compr
 ​
 **Description:**
 ​
+
 **Conclusions/Results:**
 ​
 ### [Image classification with neural networks](https://github.com/kkarthick12/STA380-Part-II/blob/main/Q9%20-%20Image%20classification%20with%20neural%20networks.ipynb)
 ​
 **Description:**
 ​
+
 **Conclusions/Results:**
 ​
 ## 4. Data
