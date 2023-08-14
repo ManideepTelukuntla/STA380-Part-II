@@ -32,6 +32,7 @@ In our "Introduction to Machine Learning" assignment, we have undertaken a compr
 **Description:** 
 - For our analysis, we employed the Rule of Total Probability to deduce the fraction of truthful clickers responding "yes" in a website survey scenario (Part A). Subsequently, we harnessed Bayes' Theorem to assess the likelihood of a disease presence given a positive test result, considering both the test's sensitivity and the disease's prevalence (Part B).
 
+
 **Conclusions/Results:**
 * The fraction of people who are truthful clickers answered yes is 71.43%
 * The probability of someone having disease given that they tested positive is 19.89%
