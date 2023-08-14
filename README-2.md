@@ -27,7 +27,7 @@ In our "Introduction to Machine Learning" assignment, we have undertaken a compr
 - Q9. Image classification with neural networks
 ​
 ## 3. Overview
-### [Probability practice](https://github.com/kkarthick12/STA380-Part-II/blob/main/Q1-Probability.ipynb)
+### [Probability practice](https://github.com/ManideepTelukuntla/STA380-Part-II/blob/main/Q1-Probability.ipynb)
 ​
 **Description:** 
 - For our analysis, we employed the Rule of Total Probability to deduce the fraction of truthful clickers responding "yes" in a website survey scenario (Part A). Subsequently, we harnessed Bayes' Theorem to assess the likelihood of a disease presence given a positive test result, considering both the test's sensitivity and the disease's prevalence (Part B).
@@ -36,7 +36,7 @@ In our "Introduction to Machine Learning" assignment, we have undertaken a compr
 * The fraction of people who are truthful clickers answered yes is 71.43%
 * The probability of someone having disease given that they tested positive is 19.89%
 ​
-### [Wrangling the Billboard Top 100](https://github.com/kkarthick12/STA380-Part-II/blob/main/Q2-Data-Wrangling.md)
+### [Wrangling the Billboard Top 100](https://github.com/ManideepTelukuntla/STA380-Part-II/blob/main/Q2-Data-Wrangling.md)
 ​
 **Description**
 
@@ -52,7 +52,7 @@ The analysis involved wrangling and visualizing data from the Billboard Top 100 
     Musical Diversity: A line graph revealed a peak in diversity in 1966, a decline until 2001, and a subsequent increase, portraying the variation in unique songs over time.
     Artists with Ten-Week Hits: A bar plot highlighted artists like Elton John and Madonna who have had significant ten-week hits, with Elton John leading the list.
     
-### [Visual story telling part 1: green buildings](https://github.com/kkarthick12/STA380-Part-II/blob/main/Q3-Visual-Story-Telling-Green-Buildings.md)
+### [Visual story telling part 1: green buildings](https://github.com/ManideepTelukuntla/STA380-Part-II/blob/main/Q3-Visual-Story-Telling-Green-Buildings.md)
 ​
 **Description**
 
@@ -66,7 +66,7 @@ The initial analysis suggested that green buildings would yield additional reven
 
 The comprehensive analysis challenged the initial recommendation to invest in green buildings. It concluded that the specific investment in a green building for the developer's project might not be economically advantageous. The study emphasizes the importance of considering various factors in decision-making and shows that the financial benefits of green buildings may not be as straightforward as initially believed.
 
-### [Visual story telling part 2: Capital Metro data](https://github.com/kkarthick12/STA380-Part-II/blob/main/Q4-Visual-Story-Telling-Part-II-Capital-Metro-Data.md)
+### [Visual story telling part 2: Capital Metro data](https://github.com/ManideepTelukuntla/STA380-Part-II/blob/main/Q4-Visual-Story-Telling-Part-II-Capital-Metro-Data.md)
 ​
 **Description**
 
@@ -84,7 +84,7 @@ The analysis investigates ridership patterns in Austin's Capital Metro bus netwo
 
 The study uncovers intricate patterns of bus ridership around UT-Austin, revealing insights into commuting habits, temperature preferences, and seasonal effects. The findings may contribute to optimizing transportation services in alignment with these observed trends, emphasizing the complexity of factors that influence urban transit usage.
 
-### [Clustering and dimensionality reduction](https://github.com/kkarthick12/STA380-Part-II/blob/main/Q5-Clustering-and-dimensionality-reduction.md)
+### [Clustering and dimensionality reduction](https://github.com/ManideepTelukuntla/STA380-Part-II/blob/main/Q5-Clustering-and-dimensionality-reduction.md)
 ​
 **Description**
 
@@ -102,7 +102,7 @@ The analysis applied Principal Component Analysis (PCA), t-Distributed Stochasti
 
 PCA was the preferred technique, successfully distinguishing red from white wines but not effectively clustering wines by quality. The results highlight the ability to classify wines by color using chemical properties but reveal the complexity in predicting wine quality.
 
-### [Market segmentation](https://github.com/kkarthick12/STA380-Part-II/blob/main/Q6-Market-Segmentation.md)
+### [Market segmentation](https://github.com/ManideepTelukuntla/STA380-Part-II/blob/main/Q6-Market-Segmentation.md)
 ​
 **Description**
 
@@ -122,7 +122,7 @@ The analysis of Twitter followers for a consumer brand, "NutrientH20," aimed to 
 
 The segmentation provides valuable insights for NutrientH20 to tailor its social media strategies, enhancing engagement with these specific market segments. By targeting these clusters, the brand can create more resonant and effective content.
 
-### [The Reuters Corpus](https://github.com/kkarthick12/STA380-Part-II/blob/main/Q7-The%20Reuters%20Corpus.ipynb)
+### [The Reuters Corpus](https://github.com/ManideepTelukuntla/STA380-Part-II/blob/main/Q7-The%20Reuters%20Corpus.ipynb)
 ​
 **Description:**
 - For the Reuters C50 text corpus, we employed the LDA (Latent Dirichlet Allocation) model to perform topic modeling, identifying key themes across the corpus. Leveraging these discerned topics, we also designed a mini search engine that suggests authors based on user-input topics, enabling a targeted exploration of the dataset's content.
@@ -130,7 +130,7 @@ The segmentation provides valuable insights for NutrientH20 to tailor its social
 **Conclusions/Results:**
 - Through LDA topic modeling, we discerned predominant themes in the Reuters C50 corpus, spanning U.S. business legalities, global financial trends, and geopolitical nuances, especially concerning China. This analysis paved the way for a tailored search system to connect users with authors specializing in their chosen topics.
 ​
-### [Association rule mining](https://github.com/kkarthick12/STA380-Part-II/blob/main/Q8-Association-Rule-Mining.md)
+### [Association rule mining](https://github.com/ManideepTelukuntla/STA380-Part-II/blob/main/Q8-Association-Rule-Mining.md)
 ​
 **Description**
 
@@ -144,7 +144,7 @@ The analysis identified high-support items like bottled water and whole milk, sp
 
 The study provided insights into customer purchasing patterns, suggesting retail strategies like strategic placement of related items. It highlighted the value of Association Rule Mining in informing marketing and sales tactics, with a note of caution on high-lift rules based on fewer transactions.
 
-### [Image classification with neural networks](https://github.com/kkarthick12/STA380-Part-II/blob/main/Q9%20-%20Image%20classification%20with%20neural%20networks.ipynb)
+### [Image classification with neural networks](https://github.com/ManideepTelukuntla/STA380-Part-II/blob/main/Q9-Image%20classification%20with%20neural%20networks.ipynb)
 ​
 **Description**
 
