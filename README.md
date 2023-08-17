@@ -13,7 +13,7 @@
 4. [Data](#4-data)
 ​
 ## 1. Introduction 
-In our "Introduction to Machine Learning" assignment, we have undertaken a comprehensive examination of the fundamental aspects of ML. This exploration spans the foundational principles of probability, advanced data wrangling techniques, the art of visual storytelling, methodologies in clustering and topic modeling, and the intricacies of neural networks. We invite you to delve into our repository for a detailed analysis and insights.
+In our "Introduction to Machine Learning" assignment, my team has undertaken a comprehensive examination of the fundamental aspects of ML. This exploration spans the foundational principles of probability, advanced data wrangling techniques, the art of visual storytelling, methodologies in clustering and topic modeling, and the intricacies of neural networks. We invite you to delve into our repository for a detailed analysis and insights.
 ​
 ## 2. Questions
 - Q1. Probability practice
