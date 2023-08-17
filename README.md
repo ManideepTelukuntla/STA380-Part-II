@@ -162,4 +162,4 @@ The ResNet-18 model showed the highest accuracy but still faced challenges in di
 
 The ResNet-18 model outperformed the custom models, achieving almost 89% accuracy. This success illustrates the benefits of using deep learning architectures like ResNet in image classification tasks. Future enhancements could focus on fine-tuning and additional data preprocessing to further improve accuracy.
 ## 4. Data
-Created a seperate data directory to accommodate essential data files necessary for conducting the analysis.
+Data files necessary for conducting the analysis can be found at the following link: [Data Files](https://www.dropbox.com/scl/fi/y4yyzzxztxstzn2spto86/Data.zip?rlkey=2jumsil9nxcm0r7tfhp82ij06&dl=0)
