@@ -1,16 +1,23 @@
 # STA380-Part-II
 ​
-## Team
-1. Karthick Vel
-2. Manideep Telukuntla
-3. Jahnavi Angati
-4. Aneerudh Ravishankar
-​
-## Table of contents
+## Table of Contents
 1. [Introduction](#1-introduction)
 2. [Questions](#2-questions)
 3. [Overview](#3-overview)
-4. [Data](#4-data)
+    - [Probability practice](#probability-practice)
+    - [Wrangling the Billboard Top 100](#wrangling-the-billboard-top-100)
+    - [Visual story telling part 1: green buildings](#visual-story-telling-part-1-green-buildings)
+    - [Visual story telling part 2: Capital Metro data](#visual-story-telling-part-2-capital-metro-data)
+    - [Clustering and dimensionality reduction](#clustering-and-dimensionality-reduction)
+    - [Market segmentation](#market-segmentation)
+    - [The Reuters Corpus](#the-reuters-corpus)
+    - [Association rule mining](#association-rule-mining)
+    - [Image classification with neural networks](#image-classification-with-neural-networks)
+4. [Installation/Requirements](#4-installationrequirements)
+5. [File Descriptions](#5-file-descriptions)
+6. [Data](#6-data)
+7. [Contributors/Team](#7-contributorsteam)
+8. [License](#8-license)
 ​
 ## 1. Introduction 
 In our "Introduction to Machine Learning" assignment, my team has undertaken a comprehensive examination of the fundamental aspects of ML. This exploration spans the foundational principles of probability, advanced data wrangling techniques, the art of visual storytelling, methodologies in clustering and topic modeling, and the intricacies of neural networks. We invite you to delve into our repository for a detailed analysis and insights.
@@ -161,5 +168,34 @@ The ResNet-18 model showed the highest accuracy but still faced challenges in di
 **Conclusion**
 
 The ResNet-18 model outperformed the custom models, achieving almost 89% accuracy. This success illustrates the benefits of using deep learning architectures like ResNet in image classification tasks. Future enhancements could focus on fine-tuning and additional data preprocessing to further improve accuracy.
-## 4. Data
+
+## 4. Installation/Requirements
+- [Python](https://www.python.org/downloads/)
+- [R](https://cran.r-project.org)
+- [Jupyter Notebook](https://jupyter.org/install)
+- Related libraries: Refer respective files for detailed information.
+
+## 5. File Descriptions
+- **`Q1-Probability.ipynb`**: Jupyter Notebook with Python code and description for Q1
+- **`Q2-Data-Wrangling.md`**: Markdown file containing R code for Q2
+- **`Q3-Visual-Story-Telling-Green-Buildings.md`**: Markdown file containing R code for Q3
+- **`Q4-Visual-Story-Telling-Part-II-Capital-Metro-Data.md`**: Markdown file containing R code for Q4
+- **`Q5-Clustering-and-dimensionality-reduction.md`**: Markdown file containing R code for Q5
+- **`Q6-Market-Segmentation.md`**: Markdown file containing R code for Q6
+- **`Q7-The Reuters Corpus.ipynb`**: Jupyter Notebook with Python code for Q7
+- **`Q8-Association-Rule-Mining.md`**: Markdown file containing R code for Q8
+- **`Q9-Image classification with neural networks.ipynb`**: Jupyter Notebook with Python code for Q9
+
+For detailed information on solutions to each question please refer to the notebooks and markdown files.
+
+## 6. Data
 Data files necessary for conducting the analysis can be found at the following link: [Data Files](https://www.dropbox.com/scl/fi/y4yyzzxztxstzn2spto86/Data.zip?rlkey=2jumsil9nxcm0r7tfhp82ij06&dl=0)
+
+## 7. Contributors/Team
+1. Karthick Vel
+2. Manideep Telukuntla
+3. Jahnavi Angati
+4. Aneerudh Ravishankar
+
+## 8. License
+Licensed under [MIT License](https://github.com/ManideepTelukuntla/InvestigateTMDBMovieData/blob/master/LICENSE)
